@@ -8,16 +8,16 @@ The main goal of creating this report was to track mico and macro element consum
 ## Preview (Screenshots)
 > Below are screenshots showing the main views of the report.
 
-![Main dashboard view]("Images\Main page.png")
+![Main dashboard view](Images/Main%20page.png)
 The above page shows consumption of calories, carbohydrates, proteins, fats and their distribution in diet
 
-![Minerals](""C:\Users\szkod\Desktop\Power BI\Nutrition Dashboard\Images\Minerals.png"")
+![Minerals](Images/Minerals.png)
 The above page shows minerals consumption. The gauges at the top always show intake for a current day. The column chart show consumption of a chosen element in time. The bars are green for days when intake was sufficent and red when it was too low
 
-![Vitamins](""C:\Users\szkod\Desktop\Power BI\Nutrition Dashboard\Images\Vitamins.png"")
+![Vitamins](Images/Vitamins.png)
 The above page shows vitamins consumption. The gauges at the top always show intake for a current day. The column chart show consumption of a chosen vitamin in time. The bars are green for days when intake was sufficent and red when it was too low
 
-![Food details](""C:\Users\szkod\Desktop\Power BI\Nutrition Dashboard\Images\Vitamins.png"")
+![Food details](Images/Food%20details.png)
 The above page shows micro and macro information for a chosen product
 
 ## Technologies and Skills
