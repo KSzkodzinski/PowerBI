@@ -11,6 +11,7 @@ Here is a list of my current projects. Click on the project name to see the full
 | Project Name | Description | Key Skills Demonstrated |
 | :--- | :--- | :--- |
 | **[Nutrition Dashboard](./Nutrition%20Dashboard)** | An interactive dashboard analyzing nutritional data to identify key eating habits and product values. | DAX, Power Query, Data Modeling, UI/UX Design |
+| **[Northwind](./Northwind)** | A modern dashboard exploring sales overviews, product performance, and freight | Data Modeling, DAX, Data Visualization, Bookmarks/Buttons for UI |
 
 ## Technical Skills
 - **Tools:** Power BI Desktop, Power BI Service, Excel
