@@ -1,4 +1,4 @@
-# Data Analysis: Food (Power BI Dashboard)
+# Data Analysis: Nutrition Dashboard (Power BI Dashboard)
 
 ## Project Description
 This project is an interactive analytical dashboard created in Microsoft Power BI. The project focuses on data analysis regarding eating habits 
@@ -8,17 +8,24 @@ The main goal of creating this report was to track mico and macro element consum
 ## Preview (Screenshots)
 > Below are screenshots showing the main views of the report.
 
+
 ![Main dashboard view](Images/Main%20page.png)
 The above page shows consumption of calories, carbohydrates, proteins, fats and their distribution in diet
+
 
 ![Minerals](Images/Minerals.png)
 The above page shows minerals consumption. The gauges at the top always show intake for a current day. The column chart show consumption of a chosen element in time. The bars are green for days when intake was sufficent and red when it was too low
 
+
 ![Vitamins](Images/Vitamins.png)
 The above page shows vitamins consumption. The gauges at the top always show intake for a current day. The column chart show consumption of a chosen vitamin in time. The bars are green for days when intake was sufficent and red when it was too low
 
+
 ![Food details](Images/Food%20details.png)
 The above page shows micro and macro information for a chosen product
+
+
+![DAX](Images/DAX.png)
 
 ## Technologies and Skills
 In this project, I used the following tools and techniques:
@@ -29,6 +36,6 @@ In this project, I used the following tools and techniques:
 
 ## How to run the project locally
 1. Download or clone this repository to your local machine.
-2. Download the `Jedzenie.pbix` file.
+2. Download the `Nutrition Dashboard.pbix` file.
 3. To open the file, you need the free [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) software.
 4. Run the file to interactively filter data and explore the visualizations.
